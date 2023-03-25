@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Print Name, Email and Phone Number</title>
+</head>
+<body>
+	<h1>My Contact Information</h1>
+	<p>Name: Anjani Aella</p>
+	<p>Email: anjaniaella@gmail.com</p>
+	<p>Phone: 9885904929</p>
+</body>
+</html>
